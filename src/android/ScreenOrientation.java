@@ -1,4 +1,4 @@
-package org.apache.cordova.camera;
+package org.apache.cordova.device;
 
 import org.apache.cordova.CallbackContext;
 import org.apache.cordova.CordovaPlugin;
